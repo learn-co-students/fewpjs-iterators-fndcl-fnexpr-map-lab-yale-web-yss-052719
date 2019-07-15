@@ -170,7 +170,7 @@ const tutorials = [
   'What is the Contutorialuctor OO pattern?',
   'implementing Blockchain Web API',
   'The Test Driven Development Workflow',
-  'What is NaN and how Can we Check for it',
+  'What is NaN and how Can we Check for it',e
   'What is the difference between stopPropagation and preventDefault?',
   'Immutable State and Pure Functions',
   'what is the difference between == and ===?',
